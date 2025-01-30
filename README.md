@@ -1,7 +1,6 @@
 # Description
 ## *Neural-Network-Classification-on-Credit-Usage*
-## Data found inside CSV file [ToyotaCorolla.csv](https://github.com/user-attachments/files/18607138/ToyotaCorolla.csv)
-## Python Script :
+## Data found inside CSV file 
 
 
 
