@@ -1,6 +1,6 @@
-# Description
-## *Neural-Network-Classification-on-Credit-Usage*
-## Data found inside CSV file 
+# *Neural-Network-Classification-on-Credit-Usage*
+## Description
+
 
 
 
@@ -9,3 +9,4 @@
 ![image](https://github.com/user-attachments/assets/eca28450-1f23-4c7e-9998-d450465b048d)
 ![image](https://github.com/user-attachments/assets/8da998f9-b770-4491-886f-a13b45b3a2d5)
 
+## Data found inside CSV file 
