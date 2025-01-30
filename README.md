@@ -1,4 +1,4 @@
-[ToyotaCorolla.csv](https://github.com/user-attachments/files/18607137/ToyotaCorolla.csv)[ToyotaCorolla.csv](https://github.com/user-attachments/files/18607134/ToyotaCorolla.csv)# Description
+# Description
 ## *Neural-Network-Classification-on-Credit-Usage*
 ## Data found inside CSV file [ToyotaCorolla.csv](https://github.com/user-attachments/files/18607138/ToyotaCorolla.csv)
 
